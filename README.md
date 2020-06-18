@@ -1,7 +1,11 @@
-Etch-A-Sketch. Draw using your mouse!
+Etch-A-Sketch.
 
-This project was created to showcase my knowledge in DOM Manipulation
+To view live, go to: https://jomark031497.github.io/etch-a-sketch/
 
-This is a work in progress.
+A project based on the Fullstack-Javascript Curriculum of The Odin Project: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
 
-Thank you The Odin Project \m/
+In this project, I learned about:
+
+    1. Clean code (usage of indentation, camelCase, naming Conventions, etc.);
+    2. Fundamentals of Javascript (Arrays, Loops, and introduction Test Driven Development);
+    3. DOM Manipulation.
